@@ -2,3 +2,4 @@
 
 # Spring 2023
 Jedriq, Sam, Nathan, Dylan
+permalink: /index.html
